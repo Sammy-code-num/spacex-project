@@ -1,0 +1,26 @@
+
+a:link{
+  color: rgb(65, 223, 34);
+}
+a:visited {
+  color: saddlebrown;
+}
+a:hover{
+  color:pink;
+}
+a:active{
+  color: yellow;
+}
+button:hover {
+  background-color: grey;
+
+}
+button:active{
+  background-color: grey;
+}
+li:nth-child(3n+4){
+  background-color: red;
+}
+li:nth-child(5n+1){
+  background-color: limegreen;
+}
